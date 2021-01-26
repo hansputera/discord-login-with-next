@@ -1,0 +1,27 @@
+{
+  "name": "discord-login-withNext",
+  "version": "1.0.0",
+  "description": "Discord Login OAuth2",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "Hanif",
+  "license": "ISC",
+  "dependencies": {
+    "@chakra-ui/icons": "^1.0.0",
+    "@chakra-ui/react": "^1.0.0",
+    "@chakra-ui/theme-tools": "^1.0.3",
+    "@emotion/react": "^11.0.0",
+    "@emotion/styled": "^11.0.0",
+    "framer-motion": "^2.9.4",
+    "next": "latest",
+    "next-session": "^3.4.0",
+    "node-fetch": "^2.6.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
